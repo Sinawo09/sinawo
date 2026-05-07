@@ -84,5 +84,9 @@ For feedback or support, please reach out.
 
 --------------------------------------------------
 
-LIVE DEM
+LIVE DEMO        
+
 link: https://sinawo.lovable.app
+
+--------------------------------------------------
+
